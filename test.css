@@ -29,11 +29,13 @@
 }
 
 .correct {
-  background-color: #28a745;
+  /* background-color: #28a745; */
+  background-color: #27ae60;
 }
 
 .incorrect {
-  background-color: #dc3545;
+  /* background-color: #dc3545; */
+  background-color: #c0392b;
 }
 
 /* HUD */
